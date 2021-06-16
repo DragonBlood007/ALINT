@@ -9,7 +9,7 @@
 // Your deliverable is the implementation file.
 // The implementation file has the definition of the functions decalred here.
 // You can write some of your own helper functions, keep them "static".
-// Use the sample test file (that has the main function) to test your implementation.
+// Use the sample test file(that has the main function) to test your implementation.
 
 // To generate your own testcases, you can use https://www.omnicalculator.com/math
 
