@@ -1,5 +1,5 @@
 # ALINT - Arbitrary Length Integers
-4th sem Design and Analysis of Algorithms project on implementing library functions for the datatype "alint".
+Big Integer Library for C langauge for operations on integer exceeding 20 digit length.
 
 Introduction:
 An ALINT is a non negative integer of arbitrary length, but in case of my implementation it has a limit of 1000 digits. Alint is stored as a null terminated string of ASCII format in a big endian format for convenience sake.
