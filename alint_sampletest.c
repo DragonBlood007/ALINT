@@ -94,7 +94,7 @@ int main(int argc, char const *argv[]) {
 
 	result1 = alint_mod(a[0], a[5]);
 	if(!result1) {
-		printf("Test alint_mod FAILED.\n");
+		printf("Test alint_mod FAILED\n");
 	} else {
 		if(0 == strcmp(result1, "9")) {
 			printf("Test alint_mod PASSED\n");
